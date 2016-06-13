@@ -2,4 +2,8 @@ born in: Beijing
 like to travel
 my favorate color is BLUE
 yellow as well
+<<<<<<< HEAD
 RED
+=======
+RED
+>>>>>>> new2
